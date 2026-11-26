@@ -1,0 +1,12 @@
+DAFTAR PERINTAH DASAR LINUX
+
+1. pwd  = Melihat lokasi direktori
+2. ls   = Melihat isi direktori
+3. cd   = Berpindah direktori
+4. mkdir = Membuat folder
+5. touch = Membuat file
+6. rm   = Menghapus file
+7. cp   = Menyalin file
+8. mv   = Memindahkan file
+9. whoami = Melihat nama pengguna
+10. clear = Membersihkan terminal
